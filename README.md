@@ -5,8 +5,8 @@ Support, privacy, and terms for the Spotter iOS app.
 Email: [muzaffarumar768@gmail.com](mailto:muzaffarumar768@gmail.com)
 
 - [Support](support.md)
-- [Privacy Policy](#privacy-policy)
-- [Terms of Use](#terms-of-use)
+- [Privacy Policy](privacy.md)
+- [Terms of Use](terms.md)
 
 ## Support
 

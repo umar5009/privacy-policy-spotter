@@ -31,5 +31,5 @@ The Gyms tab uses your location only while that screen is open, to show nearby g
 
 ## Policies
 
-- [Privacy Policy](privacy.html)
-- [Terms of Use](terms.html)
+- [Privacy Policy](privacy.md)
+- [Terms of Use](terms.md)
